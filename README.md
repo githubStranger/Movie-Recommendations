@@ -1,2 +1,2 @@
 # Movie-Recommendations
-Building this project as a task of my 1 Month Internship at BharatIntern.
+This project is my 1st task of my virtual Internship at BharatIntern.
